@@ -3,7 +3,7 @@
 baseURL = "http://example.org/"
 languageCode = "en"
 title = ""
-theme = "nimra"
+theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 
